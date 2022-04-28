@@ -23,4 +23,4 @@ My research interests focus on data mining, including automated machine learning
 2. **Yejing Wang**, Xiangyu Zhao*, Tong Xu, Xian Wu, Automating Feature Selection in Deep Recommender Systems, The Web Conference 2022 **(WWW'2022)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071)
 
 ## Work Experience
--**2021.10-Present** ***Tencent*** *Research Intern*
+- **2021.10-Present** ***Tencent*** *Research Intern*
