@@ -1,6 +1,8 @@
 # Yejing Wang
 Ph.D student
+
 [School of Data Science](https://www.sdsc.cityu.edu.hk/)
+
 [City University of Hong Kong](https://www.cityu.edu.hk/)
 
 I am now a first-year 
