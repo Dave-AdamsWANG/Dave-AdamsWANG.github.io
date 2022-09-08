@@ -1,6 +1,8 @@
 # Yejing Wang
 Ph.D student
 
+[Applied Machine Learning Lab (AML)](https://zhaoxyai.github.io/aml.html)
+
 [School of Data Science](https://www.sdsc.cityu.edu.hk/)
 
 [City University of Hong Kong](https://www.cityu.edu.hk/)
@@ -8,7 +10,7 @@ Ph.D student
 [Email: adave631@gmail.com](mailto:adave631@gmail.com)
 
 
-I am now a first-year Ph.D student in data science at City University of Hong Kong, advised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/). I received a B.S. in statistics from the University of Science and Technology of China in 2022, where I worked with [Prof.Tong Xu](http://staff.ustc.edu.cn/~tongxu/).
+I am now a first-year Ph.D student from the School of Data Science at City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in AML Lab. I received my B.S. in statistics from [the School of Gifted Young](https://en.scgy.ustc.edu.cn/), [the University of Science and Technology of China](https://www.ustc.edu.cn/) in 2022, where I worked with [Prof.Tong Xu](http://staff.ustc.edu.cn/~tongxu/).
 
 ## Research Interest
 My research interests focus on data mining, including automated machine learning techeniques, multi-task learning, feature engineering.
