@@ -19,8 +19,9 @@ My research interests focus on data mining, including automated machine learning
 
 
 ### Conference and Journal Papers
-1. Bo Chen, Xiangyu Zhao, Yejing Wang, Wenqi Fan, Huifeng Guo, Ruiming Tang, Automated Machine Learning for Deep Recommender Systems: A Survey **(preprint)** [pdf](https://arxiv.org/pdf/2204.01390.pdf)
-2. **Yejing Wang**, Xiangyu Zhao*, Tong Xu, Xian Wu, Automating Feature Selection in Deep Recommender Systems, The Web Conference 2022 **(WWW'2022)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071)
+1. Weilin Lin, Xiangyu Zhao, **Yejing Wang**, Tong Xu, Xian Wu, AdaFS: Adaptive Feature Selection in Deep Recommender System, 28th ACM SIGKDD Conference on Knowledge Discovery and Data **(KDD'2022)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3534678.3539204)
+2. Bo Chen, Xiangyu Zhao, **Yejing Wang**, Wenqi Fan, Huifeng Guo, Ruiming Tang, Automated Machine Learning for Deep Recommender Systems: A Survey **(preprint)** [pdf](https://arxiv.org/pdf/2204.01390.pdf)
+3. **Yejing Wang**, Xiangyu Zhao*, Tong Xu, Xian Wu, Automating Feature Selection in Deep Recommender Systems, The Web Conference 2022 **(WWW'2022)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071)
 
 ## Work Experience
-- **2021.10-Present** ***Tencent*** *Research Intern*
+- **2021.10-2022.07** ***Tencent*** *Research Intern*
