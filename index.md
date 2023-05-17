@@ -1,7 +1,7 @@
 # Yejing Wang
 Ph.D student
 
-[Applied Machine Learning Lab (AML)](https://zhaoxyai.github.io/aml.html)
+[Applied Machine Learning Lab (AML)](https://aml-cityu.github.io/)
 
 [School of Data Science](https://www.sdsc.cityu.edu.hk/)
 
