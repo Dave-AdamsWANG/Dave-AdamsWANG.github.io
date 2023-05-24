@@ -29,7 +29,7 @@ Advances, 16th ACM International Conference on Web Search and Data Mining **(WSD
 4. Weilin Lin, Xiangyu Zhao, **Yejing Wang**, Tong Xu, Xian Wu, AdaFS: Adaptive Feature Selection in Deep Recommender System, 28th ACM SIGKDD Conference on Knowledge Discovery and Data **(KDD'2022)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3534678.3539204)
 5. Bo Chen, Xiangyu Zhao, **Yejing Wang**, Wenqi Fan, Huifeng Guo, Ruiming Tang, A Comprehensive Survey on Automated Machine Learning
 for Recommendations **(preprint)** [pdf](https://arxiv.org/pdf/2204.01390.pdf)
-6. **Yejing Wang**, Xiangyu Zhao*, Tong Xu, Xian Wu, Automating Feature Selection in Deep Recommender Systems, The Web Conference 2022 **(WWW'2022)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071)
+6. **Yejing Wang**, Xiangyu Zhao, Tong Xu, Xian Wu, Automating Feature Selection in Deep Recommender Systems, The Web Conference 2022 **(WWW'2022)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071)
 
 ## Work Experience
 - **2021.10-2022.07** ***Tencent*** *Research Intern*
