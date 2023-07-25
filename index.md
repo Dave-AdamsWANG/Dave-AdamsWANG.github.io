@@ -23,7 +23,7 @@ Advances, 16th ACM International Conference on Web Search and Data Mining **(WSD
 
 
 ### Conference and Journal Papers
-1. Chengxi Li, Xiangyu Zhao, **Yejing Wang**, Qidong Liu, Wanyu Wang, Yiqi Wang, Lixin Zou, Wenqi Fan, Qing Li, STRec: Sparse Transformer for Sequential Recommendations, 17th ACM Conference on Recommender Systems **(RecSys'2023)**
+1. Chengxi Li, **Yejing Wang** (co-first), Qidong Liu (co-first), Xiangyu Zhao, Wanyu Wang, Yiqi Wang, Lixin Zou, Wenqi Fan, Qing Li, STRec: Sparse Transformer for Sequential Recommendations, 17th ACM Conference on Recommender Systems **(RecSys'2023)**
 2. **Yejing Wang**, Shen Ge, Xiangyu Zhao, Xian Wu, Tong Xu, Chen Ma, Zhi Zheng, Doctor Specific Tag Recommendation for Online Medical Record Management, 29th SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD'2023)**
 3. **Yejing Wang**, Zhaocheng Du, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang, Zhenhua Dong, Single-shot Feature Selection for Multi-task Recommendations, 46th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR'2023)**
 4. Weilin Lin, Xiangyu Zhao, **Yejing Wang**, Yuanshao Zhu, Wanyu Wang, AutoDenoise: Automatic Data Instance Denoising for Recommendations, The Web Conference 2023 **(WWW'2023)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3543507.3583339)
