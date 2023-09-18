@@ -34,6 +34,7 @@ for Recommendations **(preprint)** [pdf](https://arxiv.org/pdf/2204.01390.pdf)
 
 ## Work Experience
 - **2021.10-2022.07** ***Tencent*** *Research Intern*
+- **2023.9-Present** ***Xiaohongshu*** *Research Intern*
 
 ## Service 
 - **IJCAI 2023** *Student Volunteer*
