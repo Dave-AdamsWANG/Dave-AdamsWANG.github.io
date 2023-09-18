@@ -33,9 +33,10 @@ for Recommendations **(preprint)** [pdf](https://arxiv.org/pdf/2204.01390.pdf)
 7. **Yejing Wang**, Xiangyu Zhao, Tong Xu, Xian Wu, Automating Feature Selection in Deep Recommender Systems, The Web Conference 2022 **(WWW'2022)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071)
 
 ## Work Experience
-- **2021.10-2022.07** ***Tencent*** *Research Intern*
 - **2023.9-Present** ***Xiaohongshu*** *Research Intern*
+- **2021.10-2022.07** ***Tencent*** *Research Intern*
 
 ## Service 
+- **AAAI 2024** *PC Member*
 - **IJCAI 2023** *Student Volunteer*
 
