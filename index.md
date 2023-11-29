@@ -1,43 +1,44 @@
 # Yejing Wang
-Ph.D student
+**Ph.D. Student in Data Science**
 
-[Applied Machine Learning Lab (AML)](https://aml-cityu.github.io/)
+---
 
-[School of Data Science](https://www.sdsc.cityu.edu.hk/)
+### Affiliations
+- [**Applied Machine Learning Lab (AML)**](https://aml-cityu.github.io/)
+- [**School of Data Science, City University of Hong Kong**](https://www.sdsc.cityu.edu.hk/)
 
-[City University of Hong Kong](https://www.cityu.edu.hk/)
+### Contact
+- 📧 [yejing.wang@my.cityu.edu.hk](mailto:yejing.wang@my.cityu.edu.hk)
 
-[Email: yejing.wang@my.cityu.edu.hk](mailto:yejing.wang@my.cityu.edu.hk)
+---
 
+## About Me
+I am a second-year Ph.D. student at the [School of Data Science, City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in the AML Lab. My academic journey began with a B.S. in Statistics from [the School of Gifted Young, University of Science and Technology of China](https://en.scgy.ustc.edu.cn/) in 2022, under the guidance of [Prof. Tong Xu](http://staff.ustc.edu.cn/~tongxu/).
 
-I am now a second-year Ph.D student from the School of Data Science at City University of Hong Kong, supervised by [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) in AML Lab. I received my B.S. in statistics from [the School of Gifted Young](https://en.scgy.ustc.edu.cn/), [the University of Science and Technology of China](https://www.ustc.edu.cn/) in 2022, where I worked with [Prof.Tong Xu](http://staff.ustc.edu.cn/~tongxu/).
-
-## Research Interest
-My research interests focus on data mining, including automated machine learning techeniques, multi-task learning, feature engineering.
+## Research Interests
+- **Data Mining**: Focusing on automated machine learning techniques, multi-task learning, and feature engineering.
 
 ## Publications
 ### Tutorials & Workshop Proposals
-1. Ruiming Tang, Bo Chen, **Yejing Wang**, Huifeng Guo, Yong Liu, Wenqi Fan, Xiangyu Zhao, AutoML for Deep Recommender Systems: Fundamentals and
-Advances, 16th ACM International Conference on Web Search and Data Mining **(WSDM'2023)**
-2. Xiangyu Zhao, Wenqi Fan, Huifeng Guo, Bo Chen, **Yejing Wang**, Ruiming Tang, Automated Machine Learning for Recommendations: Fundamentals and Advances, The Web Conference 2022 **(WWW'2022)** [Website](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)
-
+1. **[WSDM'2023]** Ruiming Tang, Bo Chen, **Yejing Wang**, et al. - "AutoML for Deep Recommender Systems: Fundamentals and Advances"
+2. **[WWW'2022]** Xiangyu Zhao, Wenqi Fan, **Yejing Wang**, et al. - "Automated Machine Learning for Recommendations: Fundamentals and Advances" - [Workshop Website](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)
 
 ### Conference and Journal Papers
-1. Dugang Liu, Chaohua Yang, Xing Tang, **Yejing Wang**, Fuyuan Lyu, Weihong Luo, Xiuqiang He, Zhong Ming, Xiangyu Zhao, MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems, 17th ACM International Conference on Web Search and Data Mining **(WSDM'2024)**
-2. Bo Chen, Xiangyu Zhao, **Yejing Wang**, Wenqi Fan, Huifeng Guo, Ruiming Tang, A Comprehensive Survey on Automated Machine Learning
-for Recommendations ACM Transactions on Recommender Systems **(TORS)**, 2023 [pdf](https://arxiv.org/pdf/2204.01390.pdf)
-3. Chengxi Li, **Yejing Wang** (co-first), Qidong Liu (co-first), Xiangyu Zhao, Wanyu Wang, Yiqi Wang, Lixin Zou, Wenqi Fan, Qing Li, STRec: Sparse Transformer for Sequential Recommendations, 17th ACM Conference on Recommender Systems **(RecSys'2023)**
-4. **Yejing Wang**, Shen Ge, Xiangyu Zhao, Xian Wu, Tong Xu, Chen Ma, Zhi Zheng, Doctor Specific Tag Recommendation for Online Medical Record Management, 29th SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD'2023)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3580305.3599810)
-5. **Yejing Wang**, Zhaocheng Du, Xiangyu Zhao, Bo Chen, Huifeng Guo, Ruiming Tang, Zhenhua Dong, Single-shot Feature Selection for Multi-task Recommendations, 46th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR'2023)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3539618.3591767)
-6. Weilin Lin, Xiangyu Zhao, **Yejing Wang**, Yuanshao Zhu, Wanyu Wang, AutoDenoise: Automatic Data Instance Denoising for Recommendations, The Web Conference 2023 **(WWW'2023)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3543507.3583339)
-7. Weilin Lin, Xiangyu Zhao, **Yejing Wang**, Tong Xu, Xian Wu, AdaFS: Adaptive Feature Selection in Deep Recommender System, 28th ACM SIGKDD Conference on Knowledge Discovery and Data **(KDD'2022)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3534678.3539204)
-8. **Yejing Wang**, Xiangyu Zhao, Tong Xu, Xian Wu, Automating Feature Selection in Deep Recommender Systems, The Web Conference 2022 **(WWW'2022)** [pdf](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071)
+1. **[WSDM'2024]** Dugang Liu, Chaohua Yang, Xing Tang, **Yejing Wang**, et al. - "MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems"
+2. **[TORS, 2023]** Bo Chen, Xiangyu Zhao, **Yejing Wang**, et al. - "A Comprehensive Survey on Automated Machine Learning for Recommendations" - [PDF](https://arxiv.org/pdf/2204.01390.pdf)
+3. **[RecSys'2023]** Chengxi Li, **Yejing Wang** (co-first), Qidong Liu (co-first), et al. - "STRec: Sparse Transformer for Sequential Recommendations"
+4. **[KDD'2023]** **Yejing Wang**, Shen Ge, Xiangyu Zhao, et al. - "Doctor Specific Tag Recommendation for Online Medical Record Management" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599810)
+5. **[SIGIR'2023]** **Yejing Wang**, Zhaocheng Du, Xiangyu Zhao, et al. - "Single-shot Feature Selection for Multi-task Recommendations" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3539618.3591767)
+6. **[WWW'2023]** Weilin Lin, Xiangyu Zhao, **Yejing Wang**, et al. - "AutoDenoise: Automatic Data Instance Denoising for Recommendations" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3543507.3583339)
+7. **[KDD'2022]** Weilin Lin, Xiangyu Zhao, **Yejing Wang**, et al. - "AdaFS: Adaptive Feature Selection in Deep Recommender System" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3534678.3539204)
+8. **[WWW'2022]** **Yejing Wang**, Xiangyu Zhao, Tong Xu, et al. - "Automating Feature Selection in Deep Recommender Systems" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071)
 
-## Work Experience
-- **2023.9-Present** ***Xiaohongshu*** *Research Intern*
-- **2021.10-2022.07** ***Tencent*** *Research Intern*
+## Professional Experience
+- **2023.9 - Present**: Research Intern at **Xiaohongshu**
+- **2021.10 - 2022.07**: Research Intern at **Tencent**
 
-## Service 
-- **AAAI 2024** *PC Member*
-- **IJCAI 2023** *Student Volunteer*
+## Academic Service
+- **2024**: PC Member for **AAAI**
+- **2023**: Student Volunteer for **IJCAI**
 
+---
