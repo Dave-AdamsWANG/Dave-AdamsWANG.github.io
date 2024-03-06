@@ -16,6 +16,8 @@
 I am a second-year Ph.D. student at the [School of Data Science, City University of Hong Kong](https://www.cityu.edu.hk/), supervised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) in the AML Lab. My academic journey began with a B.S. in Statistics from [the School of Gifted Young, University of Science and Technology of China](https://en.scgy.ustc.edu.cn/) in 2022, under the guidance of [Prof. Tong Xu](http://staff.ustc.edu.cn/~tongxu/).
 
 ## Research Interests
+- **Large Language Model**： Developing low-latency LLM4Rec techniques for real-world applications.
+- **Recommender Systems**: Industrial Deployable Reccommender Systems, Practical problems of Deep Recommender Systems such like fairness.
 - **Data Mining**: Focusing on automated machine learning techniques, multi-task learning, and feature engineering.
 
 ## Publications
