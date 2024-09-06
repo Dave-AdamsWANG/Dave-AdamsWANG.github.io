@@ -34,9 +34,9 @@ I am a third-year Ph.D. student at the [School of Data Science, City University 
 6. **[RecSys'2023]** Chengxi Li, **Yejing Wang** (Co-first), Qidong Liu (Co-first), et al. - "STRec: Sparse Transformer for Sequential Recommendations" - [PDF](https://dl.acm.org/doi/10.1145/3604915.3608779)
 7. **[KDD'2023]** **Yejing Wang**, Shen Ge, Xiangyu Zhao, et al. - "Doctor Specific Tag Recommendation for Online Medical Record Management" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3580305.3599810)
 8. **[SIGIR'2023]** **Yejing Wang**, Zhaocheng Du, Xiangyu Zhao, et al. - "Single-shot Feature Selection for Multi-task Recommendations" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3539618.3591767)
-9. **[WWW'2023]** Weilin Lin, Xiangyu Zhao, **Yejing Wang**, et al. - "AutoDenoise: Automatic Data Instance Denoising for Recommendations" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3543507.3583339)
-10. **[KDD'2022]** Weilin Lin, Xiangyu Zhao, **Yejing Wang**, et al. - "AdaFS: Adaptive Feature Selection in Deep Recommender System" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3534678.3539204)
-11. **[WWW'2022]** **Yejing Wang**, Xiangyu Zhao, Tong Xu, et al. - "Automating Feature Selection in Deep Recommender Systems" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071)
+9. **[WWW'2023]** Weilin Lin, Xiangyu Zhao, **Yejing Wang**, et al. - "AutoDenoise: Automatic Data Instance Denoising for Recommendations" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3543507.3583339) [Code](https://github.com/Applied-Machine-Learning-Lab/AutoDenoise)
+10. **[KDD'2022]** Weilin Lin, Xiangyu Zhao, **Yejing Wang**, et al. - "AdaFS: Adaptive Feature Selection in Deep Recommender System" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3534678.3539204) [Code](https://github.com/Applied-Machine-Learning-Lab/AdaFS)
+11. **[WWW'2022]** **Yejing Wang**, Xiangyu Zhao, Tong Xu, et al. - "Automating Feature Selection in Deep Recommender Systems" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071) [Code](https://github.com/Dave-AdamsWANG/AutoField)
 
 ## Professional Experience
 - **2024.4 - Present**: Research Intern at **Alibaba Cloud**
