@@ -45,7 +45,7 @@ I am a third-year Ph.D. student at the [School of Data Science, City University 
 - **2021.10 - 2022.07**: Research Intern at **Tencent**
 
 ## Academic Service
-- **2024**: PC Member for **AAAI**, **IJCAI**, **RecSys**， **ICLR**
+- **2024**: PC Member for **AAAI**, **IJCAI**, **RecSys**, **ICLR**
 - **2023**: Student Volunteer for **IJCAI**
 
 ## Award 
