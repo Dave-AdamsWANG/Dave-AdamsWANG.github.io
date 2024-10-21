@@ -26,7 +26,7 @@ I am a third-year Ph.D. student at the [School of Data Science, City University 
 2. **[WWW'2022]** Xiangyu Zhao, Wenqi Fan, **Yejing Wang**, et al. - "Automated Machine Learning for Recommendations: Fundamentals and Advances" - [Workshop Website](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)
 
 ### Conference and Journal Papers
-1. **[NeurIPS’2024, Spotlight]** Qidong Liu, Xian Wu*, Xiangyu Zhao*, Yejing Wang, et al. - "LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation" - [PDF](https://arxiv.org/abs/2405.20646) [Code](https://github.com/liuqidong07/LLM-ESR)
+1. **[NeurIPS’2024, Spotlight]** Qidong Liu, Xian Wu, Xiangyu Zhao, **Yejing Wang**, et al. - "LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation" - [PDF](https://arxiv.org/abs/2405.20646) [Code](https://github.com/liuqidong07/LLM-ESR)
 2. **[ICDM'2024]** **Yejing Wang**, Dong Xu, Xiangyu Zhao, et al. - “GPRec: Bi-level User Modeling for Deep Recommender Systems” - [Code](https://github.com/Applied-Machine-Learning-Lab/GPRec)
 3. **[KDD’2024]** Pengyue Jia, **Yejing Wang** (Co-first), Zhaocheng Du  (Co-first), Xiangyu Zhao, et al. - "ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems" - [PDF](https://arxiv.org/pdf/2403.12660.pdf) [Code](https://github.com/Applied-Machine-Learning-Lab/ERASE)
 4. **[SIGIR’2024]** Xinhang Li, Xiangyu Zhao, **Yejing Wang**, et al. - "OpenSiteRec: An Open Dataset for Site Recommendation" - [PDF](https://arxiv.org/pdf/2307.00856) [Homepage](https://opensiterec.github.io/)
@@ -52,4 +52,5 @@ I am a third-year Ph.D. student at the [School of Data Science, City University 
 - **2024**: Research Tuition Scholarship (CityU), Outstanding Academic Performance Award (CityU)
 - **2023**: Research Tuition Scholarship (CityU)
 - **2022**: Outstanding Graduate Student (USTC)
+
 ---
