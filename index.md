@@ -23,11 +23,14 @@ I am a third-year Ph.D. student at the [School of Data Science, City University 
 ## Publications
 ### Tutorials & Workshop Proposals
 1. **[WSDM'2023]** Ruiming Tang, Bo Chen, **Yejing Wang**, et al. - "AutoML for Deep Recommender Systems: Fundamentals and Advances"
-2. **[WWW'2022]** Xiangyu Zhao, Wenqi Fan, **Yejing Wang**, et al. - "Automated Machine Learning for Recommendations: Fundamentals and Advances" - [Workshop Website](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)
+1. **[WWW'2022]** Xiangyu Zhao, Wenqi Fan, **Yejing Wang**, et al. - "Automated Machine Learning for Recommendations: Fundamentals and Advances" - [Workshop Website](https://advanced-recommender-systems.github.io/AutoML-Recommendations/)
 
 ### Conference and Journal Papers
+1. **[WWW'2025, Oral]** **Yejing Wang**, Chi Zhang, Xiangyu Zhao, et al. - "Behavior Modeling Space Reconstruction for E-Commerce Search" - [PDF](https://arxiv.org/pdf/2501.18216) [Code](https://github.com/Applied-Machine-Learning-Lab/DRP)
+1. **[AAAI’2025, Oral]** Qidong Liu, Xian Wu, Wanyu Wang, **Yejing Wang**, et al. - "LLMEmb: Large Language Model Can Be a Good Embedding Generator for Sequential Recommendation" - [PDF](https://arxiv.org/pdf/2409.19925) [Code](https://github.com/liuqidong07/LLMEmb)
+2. **[AAAI’2025]** - Ziwei Liu, Qidong Liu, **Yejing Wang**, et al. - "SIGMA: Selective Gated Mamba for Sequential Recommendation" - [PDF](https://arxiv.org/pdf/2408.11451) [Code](https://github.com/ziwliu8/SIGMA)
 1. **[NeurIPS’2024, Spotlight]** Qidong Liu, Xian Wu, Xiangyu Zhao, **Yejing Wang**, et al. - "LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation" - [PDF](https://arxiv.org/abs/2405.20646) [Code](https://github.com/liuqidong07/LLM-ESR)
-2. **[ICDM'2024]** **Yejing Wang**, Dong Xu, Xiangyu Zhao, et al. - “GPRec: Bi-level User Modeling for Deep Recommender Systems” - [Code](https://github.com/Applied-Machine-Learning-Lab/GPRec)
+2. **[ICDM'2024]** **Yejing Wang**, Dong Xu, Xiangyu Zhao, et al. - “GPRec: Bi-level User Modeling for Deep Recommender Systems” - [PDF](https://arxiv.org/pdf/2410.20730) [Code](https://github.com/Applied-Machine-Learning-Lab/GPRec)
 3. **[KDD’2024]** Pengyue Jia, **Yejing Wang** (Co-first), Zhaocheng Du  (Co-first), Xiangyu Zhao, et al. - "ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems" - [PDF](https://arxiv.org/pdf/2403.12660.pdf) [Code](https://github.com/Applied-Machine-Learning-Lab/ERASE)
 4. **[SIGIR’2024]** Xinhang Li, Xiangyu Zhao, **Yejing Wang**, et al. - "OpenSiteRec: An Open Dataset for Site Recommendation" - [PDF](https://arxiv.org/pdf/2307.00856) [Homepage](https://opensiterec.github.io/)
 5. **[WSDM'2024]** Dugang Liu, Chaohua Yang, Xing Tang, **Yejing Wang**, et al. - "MultiFS: Automated Multi-Scenario Feature Selection in Deep Recommender Systems" - [PDF](https://dl.acm.org/doi/10.1145/3616855.3635859)
@@ -40,11 +43,12 @@ I am a third-year Ph.D. student at the [School of Data Science, City University 
 12. **[WWW'2022]** **Yejing Wang**, Xiangyu Zhao, Tong Xu, et al. - "Automating Feature Selection in Deep Recommender Systems" - [PDF](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071) [Code](https://github.com/Dave-AdamsWANG/AutoField)
 
 ## Professional Experience
-- **2024.4 - Present**: Research Intern at **Alibaba Cloud**
-- **2023.9 - 2024.3**: Research Intern at **Xiaohongshu**
+- **2024.04 - 2024.12**: Research Intern at **Alibaba Cloud**
+- **2023.09 - 2024.03**: Research Intern at **Xiaohongshu**
 - **2021.10 - 2022.07**: Research Intern at **Tencent**
 
 ## Academic Service
+- **2025**: PC Member for **AAAI**, **IJCAI**, **RecSys**
 - **2024**: PC Member for **AAAI**, **IJCAI**, **RecSys**, **ICLR**
 - **2023**: Student Volunteer for **IJCAI**
 
